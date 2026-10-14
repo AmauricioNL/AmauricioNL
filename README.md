@@ -48,16 +48,18 @@
 </div>
 
 ###
-### 🔥 My Stats
+<h3 align="left">🐍 My Contributions</h3>
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Mis estadísticas" width="100%" />
-</div>
-
-### 📈 My Contributions
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/TU_USUARIO" alt="Calendario de contribuciones de GitHub" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/AmauricioNL/AmauricioNL/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/AmauricioNL/AmauricioNL/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake"
+         src="https://raw.githubusercontent.com/AmauricioNL/AmauricioNL/output/github-snake.svg"
+         width="100%">
+  </picture>
 </div>
 
 ###
