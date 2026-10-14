@@ -1,8 +1,7 @@
-
 <div align="center">
   <img height="150"
-       src="https://i.pinimg.com/originals/01/ed/f6/01edf6941a0d80ae60fc56eef8bafe77.gif"
-       alt="GIF animado de bienvenida" />
+       src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
+       alt="Animación de programación" />
 </div>
 
 ###
