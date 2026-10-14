@@ -1,8 +1,12 @@
-<div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif](https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTE5OTY2MzAsIm5iZiI6MTc5MTk5NjMzMCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDE0VDE2NDUzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU5ZmY5NDE1Y2I0OWFlMzc0YzgyYjM0Njk1OTM2ZDgwOTY2MzBjZTU3MDNiZWMwZGE5ZWE1MDc3ZGY0ZDZlY2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.7j8rWhESRiNFgQ8IGU3K2yFLBJ5r-0tL0LAge5dZ5LU)"
-       width="400"
-       alt="Animación de programación" />
-</div>
+
+<p align="center">
+  <img
+    src="https://media1.tenor.com/m/lMDrTorgAq0AAAAd/gojo-satoru-gojo.gif"
+    width="400"
+    alt="Gojo Satoru cansado en Okinawa"
+  />
+</p>
+
 
 ###
 
