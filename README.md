@@ -1,5 +1,7 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/01/ed/f6/01edf6941a0d80ae60fc56eef8bafe77.gif"  />
+<div align="center">
+  <img height="150"
+       src="https://i.pinimg.com/originals/01/ed/f6/01edf6941a0d80ae60fc56eef8bafe77.gif"
+       alt="GIF animado" />
 </div>
 
 ###
