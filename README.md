@@ -47,6 +47,14 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :![GitHub Metrics](./github-metrics.svg)
+<h3 data-importer="text" align="left">🔥   My Stats :
+</h3>
+
+###
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="Mis estadísticas de GitHub" width="100%" />
+</div>
+```
 
 ###
