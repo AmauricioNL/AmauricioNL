@@ -48,15 +48,16 @@
 </div>
 
 ###
-
-<h3 data-importer="text" align="left">🔥   My Stats :
-</h3>
-
-###
+### 🔥 My Stats
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Mis estadísticas de GitHub" width="100%" />
+  <img src="./github-metrics.svg" alt="Mis estadísticas" width="100%" />
 </div>
-```
+
+### 📈 My Contributions
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/TU_USUARIO" alt="Calendario de contribuciones de GitHub" width="100%" />
+</div>
 
 ###
