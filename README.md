@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm from Mexico<br><br>- 🔭 I’m working as Web Dev<br>- 📚 I'm currently learning JavaScript and python.<br>- ⚡ In my free time I like to play videogames or create algorithms.</p>
+<p data-importer="text" align="left">I'm from Mexico<br><br>- 🔭 I’d like working as Web Dev<br>- 📚 I'm currently learning JavaScript and python.<br>- ⚡ In my free time I like to play videogames or create algorithms.</p>
 
 ###
 
